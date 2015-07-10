@@ -1,5 +1,3 @@
-# PSR
-
 function getPSR( pid, callback ) {
     var exec = require('child_process').execSync;
 
